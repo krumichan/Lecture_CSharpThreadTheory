@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ThreadTheory
+namespace Lecture_CSharpTheradTheory
 {
     // 재귀적 Lock을 허용할지 설정. (Yes)
     // → Write를 수행한 Thread가 또 다시 Write를 하는 것을 허용할 것인가.

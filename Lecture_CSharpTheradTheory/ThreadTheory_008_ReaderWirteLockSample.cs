@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace ThreadTheory
+namespace Lecture_CSharpTheradTheory
 {
     class ThreadTheory_008_ReaderWirteLockSample
     {

@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ThreadTheory
+namespace Lecture_CSharpTheradTheory
 {
     class ThreadTheory_006_ResetEvent_ManualResetEvent
     {

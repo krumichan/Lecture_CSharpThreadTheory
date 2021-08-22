@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace ThreadTheory
+namespace Lecture_CSharpTheradTheory
 {
     class ThreadTheory_004_RaceCondition_Lock
     {

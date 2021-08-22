@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ThreadTheory
+namespace Lecture_CSharpTheradTheory
 {
     class ThreadTheory_002_Cache
     {
