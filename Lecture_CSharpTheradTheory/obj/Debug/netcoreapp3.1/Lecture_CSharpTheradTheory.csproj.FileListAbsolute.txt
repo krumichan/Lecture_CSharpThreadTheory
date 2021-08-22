@@ -1,0 +1,13 @@
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\bin\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.exe
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\bin\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.deps.json
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\bin\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.runtimeconfig.json
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\bin\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.runtimeconfig.dev.json
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\bin\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.dll
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\bin\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.pdb
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\obj\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.csprojAssemblyReference.cache
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\obj\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.AssemblyInfoInputs.cache
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\obj\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.AssemblyInfo.cs
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\obj\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.csproj.CoreCompileInputs.cache
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\obj\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.dll
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\obj\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.pdb
+C:\developer\unityws\lecture\vs\Lecture_CSharpTheradTheory\Lecture_CSharpTheradTheory\obj\Debug\netcoreapp3.1\Lecture_CSharpTheradTheory.genruntimeconfig.cache
